@@ -1,7 +1,7 @@
 package com.example;
 
 public class App {
-   public static void main(Static[] args) {
+   public static void main(String[] args) {
 System.out.println("Hello, SonarQube!");
 }
 }
